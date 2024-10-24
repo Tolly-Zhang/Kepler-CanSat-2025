@@ -13,7 +13,7 @@
 [Documentation](URL)
 
 ## Usage
-<!-- Example code or instructions on how to use the module. -->
+<!-- Instructions on how to use the module. -->
 
 ## Notes
 <!-- Any additional notes or important information related to the module. -->
