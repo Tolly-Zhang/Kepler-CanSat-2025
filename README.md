@@ -1,1 +1,1 @@
-# CanSat-2025
+# Kepler's CanSat 2025
