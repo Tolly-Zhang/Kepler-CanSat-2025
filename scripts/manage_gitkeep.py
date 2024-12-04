@@ -46,5 +46,5 @@ def manage_gitkeep(root_dir):
                 print(f"Removed .gitkeep from: {dirpath}")
 
 # Update the path to your repository
-repo_path = r'F:\CanSat\CanSat-2025'
+repo_path = r'F:\CanSat\Kepler-CanSat-2025'
 manage_gitkeep(repo_path)
